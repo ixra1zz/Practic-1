@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Звезда">
-  <rect x="4" y="4" width="56" height="56" rx="15" fill="#1D4ED8"/>
-  <path d="M32 11 L37.5 25 L52 26 L41 35.5 L44.5 50 L32 42 L19.5 50 L23 35.5 L12 26 L26.5 25 Z"
-        fill="#FFFFFF" stroke="#FFFFFF" stroke-linejoin="round"/>
-  <circle cx="47" cy="14" r="3" fill="#F97316"/>
-</svg>
